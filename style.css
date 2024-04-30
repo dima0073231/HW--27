@@ -32,12 +32,19 @@
     left: 0;
 }
 .menu-trigger{
-    padding-left: 650px;
+   top: 100px;
+   
  transform: rotate(90deg);  
     font-size: 16px;
     color: #fff;
     background-color: #555;
     text-align: center;
 
+}
+.menu-block{
+    top: 50px;
+    position: absolute;
+   
+   
 }
 
